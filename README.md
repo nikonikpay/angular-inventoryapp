@@ -1,3 +1,9 @@
+You can visit the demo version here :
+
+https://inventory-nu-indol.vercel.app/
+
+
+
 # InventoryApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
